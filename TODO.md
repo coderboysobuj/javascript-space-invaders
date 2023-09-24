@@ -1,5 +1,5 @@
 - [x] Project setup
-- [ ] Create a player
+- [x] Create a player
 - [ ] Move the player
 - [ ] Create projectiles
 - [ ] Create an invader
