@@ -1,0 +1,14 @@
+- [x] Project setup
+- [ ] Create a player
+- [ ] Move the player
+- [ ] Create projectiles
+- [ ] Create an invader
+- [ ] Create and move grids of invaders
+- [ ] Spawn grids at invaders
+- [ ] Shoot invaders
+- [ ] Invaders shoot back
+- [ ] Enemy explosions
+- [ ] Create background stars
+- [ ] Lose condition
+- [ ] Score
+- [ ] fixed-width canvas
