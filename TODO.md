@@ -1,6 +1,6 @@
 - [x] Project setup
 - [x] Create a player
-- [ ] Move the player
+- [x] Move the player
 - [ ] Create projectiles
 - [ ] Create an invader
 - [ ] Create and move grids of invaders
